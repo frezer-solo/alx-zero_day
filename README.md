@@ -1,2 +1,2 @@
-Alx course is great
+My first commit 
 alx end!
